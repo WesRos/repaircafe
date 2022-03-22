@@ -1,4 +1,4 @@
-# Default WonderCMS theme 2020
+# Forked from Default WonderCMS theme for RepairCafe.org
 Fully responsive.
 
 ## Preview
