@@ -5,7 +5,7 @@ html, body {
 	color: #fff;
 	font-family: "Lucida Sans Unicode", Verdana;
 	background: #665fee;
-	background-image: -webkit-linear-gradient(45deg, rgb(102, 95, 238) 0%, rgb(39, 194, 222) 100%);
+	background-image: -webkit-linear-gradient(45deg, rgb(45, 46, 130) 0%, rgb(39, 194, 222) 100%);
 	overflow-x: hidden
 }
 
