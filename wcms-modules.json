@@ -1,13 +1,13 @@
 {
     "version": 1,
     "themes": {
-        "essence": {
-            "name": "Essence",
-            "repo": "https://github.com/robiso/essence/tree/master",
-            "zip": "https://github.com/robiso/essence/archive/master.zip",
-            "summary": "Default WonderCMS theme (2020). Works only with WonderCMS 3.0.8 and higher.",
-            "version": "3.2.0",
-            "image": "https://raw.githubusercontent.com/robiso/essence/master/preview.jpg"
+        "repaircafe": {
+            "name": "RepairCafé",
+            "repo": "https://github.com/WesRos/repaircafe/tree/master",
+            "zip": "https://github.com/WesRos/repaircafe/archive/master.zip",
+            "summary": "Fork from default WonderCMS theme (2020). Specially for RepairCafé.org",
+            "version": "0.0.1",
+            "image": "https://raw.githubusercontent.com/WesRos/repaircafe/master/preview.jpg"
         }
     }
 }
